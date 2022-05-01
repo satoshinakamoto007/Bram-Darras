@@ -1,3 +1,4 @@
+[Nieuw tekstdocument.txt](https://github.com/satoshinakamoto007/Bram-Darras/files/8599745/Nieuw.tekstdocument.txt)
 # Bram-Darras
 Whitepaper 
 Bitcoin: A Peer-to-Peer Electronic Cash System
